@@ -19,12 +19,17 @@ body {
 
 
 .teaser .hero-body {
-  padding-top: 0;
+  padding-top: 1rem;
   padding-bottom: 3rem;
+ 
+
 }
 
 .teaser {
   font-family: 'Google Sans', sans-serif;
+  margin-top: 0rem;
+  margin-right: 2rem;
+  margin-left:  2rem;
 }
 
 
